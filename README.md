@@ -1,1 +1,2 @@
-# Reference Implementation for an api gateway.
+# AWS Api Gateway
+### Reference implementation for an AWS api gateway with example POST and GET endpoints.
