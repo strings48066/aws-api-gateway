@@ -1,1 +1,1 @@
-# aws-api-gateway
+# Reference Implementation for an api gateway.
